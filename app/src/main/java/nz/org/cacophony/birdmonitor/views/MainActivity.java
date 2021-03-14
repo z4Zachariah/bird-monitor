@@ -21,6 +21,9 @@ import nz.org.cacophony.birdmonitor.Util;
 
 
 public class MainActivity extends AppCompatActivity {
+
+    //test branch comment
+
     // Register with idling counter
     // https://developer.android.com/training/testing/espresso/idling-resource.html
     // stackoverflow.com/questions/25470210/using-espresso-idling-resource-with-multiple-activities // this gave me idea to use an interface for app under test activities e.g MainActivity
